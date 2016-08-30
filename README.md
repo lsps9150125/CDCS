@@ -1,2 +1,1 @@
-# CDCS
-Chinese Doucument Classify System 
+# CDCS (Chinese Doucument Classify System)
